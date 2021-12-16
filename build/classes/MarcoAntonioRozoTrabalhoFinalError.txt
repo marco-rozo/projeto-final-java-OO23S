@@ -1,0 +1,4 @@
+2021-12-04 as 20:17:00 - Erro ClienteDao.findById. Message: O índice da coluna está fora do intervalo: 1, número de colunas: 0.;
+2021-12-04 as 20:17:30 - Erro ClienteDao.findById. Message: O índice da coluna está fora do intervalo: 1, número de colunas: 0.;
+2021-12-07 as 20:10:43 - Erro ClienteDao.findById. Message: O índice da coluna está fora do intervalo: 1, número de colunas: 0.;
+2021-12-07 as 20:10:47 - Erro ClienteDao.findById. Message: O índice da coluna está fora do intervalo: 1, número de colunas: 0.;
